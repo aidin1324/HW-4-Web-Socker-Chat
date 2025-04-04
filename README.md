@@ -1,4 +1,7 @@
 # WebSocket Chat Application HW-4
+![image](https://github.com/user-attachments/assets/db7bb288-2abd-4460-a5b6-7e8888145b74)
+
+If turn on backend, it will be shown as connected
 
 This project is a real-time chat application built with React and WebSocket. The application allows users to send and receive messages in real-time, load message history, and interact with other users.
 
